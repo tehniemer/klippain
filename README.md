@@ -1,3 +1,5 @@
+### This version of klippain includes some of my personal modifications that are not included in the official branch
+
 # Klippain
 
 > Klippain - The pain-free recipe for (french)bread and butter Klipper configuration!
